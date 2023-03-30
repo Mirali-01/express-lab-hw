@@ -1,0 +1,20 @@
+<head>
+    #title#
+<style> 
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+img{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+  }
+</style>
+</head>
+<body>
+<header>#message#</header>
+    #content#
+    #image#
+</body>

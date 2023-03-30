@@ -1,0 +1,15 @@
+<head>
+    #title#
+<style> 
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+<header>#message#</header>
+    #image#
+    #content#
+</body>
