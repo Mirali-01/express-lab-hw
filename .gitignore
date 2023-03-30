@@ -1,0 +1,3 @@
+# hiding files because its private
+node_modules
+.env
